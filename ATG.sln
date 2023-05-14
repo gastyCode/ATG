@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KruskalovII", "KruskalovII\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CPM", "CPM\CPM.csproj", "{AB85705B-207A-425D-BE04-46436D64282D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Toky", "Toky\Toky.csproj", "{670D77A6-3B7A-4A8C-B95B-5A2772AEABE1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{AB85705B-207A-425D-BE04-46436D64282D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AB85705B-207A-425D-BE04-46436D64282D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AB85705B-207A-425D-BE04-46436D64282D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{670D77A6-3B7A-4A8C-B95B-5A2772AEABE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{670D77A6-3B7A-4A8C-B95B-5A2772AEABE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{670D77A6-3B7A-4A8C-B95B-5A2772AEABE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{670D77A6-3B7A-4A8C-B95B-5A2772AEABE1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
